@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Fond global en gradient -->
+        <item name="android:windowBackground">@drawable/bg_gradient</item>
+        <!-- Police par défaut -->
+        <item name="fontFamily">@font/roboto_mono_regular</item>
+        <!-- Couleurs principales -->
+        <item name="colorPrimary">@color/violet</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/black</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+</resources>

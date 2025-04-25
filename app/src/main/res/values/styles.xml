@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Titre principal -->
+    <style name="TitleText">
+        <item name="android:fontFamily">@font/roboto_mono_bold</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Texte de contenu -->
+    <style name="ContentText">
+        <item name="android:fontFamily">@font/roboto_mono_regular</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <!-- Questions / prompts -->
+    <style name="PromptText">
+        <item name="android:fontFamily">@font/roboto_mono_italic</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <!-- Boutons néon arrondis -->
+    <style name="ButtonNeon" parent="Widget.MaterialComponents.Button">
+        <item name="android:fontFamily">@font/roboto_mono_bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:backgroundTint">@color/violet</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="shapeAppearanceOverlay">@style/ShapeRounded</item>
+    </style>
+
+    <!-- Arrondis globaux pour boutons -->
+    <style name="ShapeRounded">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+</resources>

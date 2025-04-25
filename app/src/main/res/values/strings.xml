@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StoryGenerator</string>
+    <string name="salut">Salut %1$s !</string>
+    <string name="question_pref">Qu’est-ce que tu aimes ?</string>
+    <string name="btn_generer">Générer une histoire</string>
+    <string name="jespere_plu">J’espère que ça t’a plu !</string>
+    <string name="btn_nouvelle">Générer une nouvelle histoire</string>
+    <string-array name="mots_cles">
+        <item>lion</item><item>courage</item>
+        <item>espace</item><item>magie</item>
+        <item>forêt</item><item>musique</item>
+        <item>robot</item><item>bonbons</item>
+        <item>pirate</item><item>trésor</item>
+        <item>dragon</item><item>arc-en-ciel</item>
+        <item>sirène</item><item>océan</item>
+        <item>lapin</item><item>rêve</item>
+        <item>fleur</item><item>aventure</item>
+        <item>dinosaure</item><item>volcan</item>
+        <item>train</item><item>ciel</item>
+        <item>fantôme</item><item>magie</item>
+        <item>nuage</item><item>couleur</item>
+        <item>princesse</item><item>étoile</item>
+    </string-array>
+</resources>

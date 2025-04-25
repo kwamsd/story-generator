@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "titre": "Le lion courageux",
+    "contenu": "Il était une fois un lion nommé Léo qui vivait dans la vaste savane dorée. Léo adorait parcourir chaque coin de son royaume, sentir l'herbe haute frôler sa crinière et saluer les zèbres rayés au passage. Un matin, de sombres nuages couvrirent le ciel et un orage terrible éclata. Le vent gémissait, la pluie fouettait la terre, et les éclairs effrayaient même les autruches les plus calmes. Alors que tous se réfugiaient dans leurs tanières, Léo entendit un appel à l'aide. Une petite tortue était coincée sous une branche trempée par la pluie. Sans hésiter, Léo bondit malgré la boue glissante, souleva la branche d'un coup de patte et libéra la tortue. Trop faible pour marcher, elle fut portée à l'abri sous un large rocher. Après l'orage, le soleil revint et une arche d'arc‑en‑ciel illumina la plaine. Les animaux se rassemblèrent pour remercier Léo. Depuis ce jour, on l'appela le lion au grand cœur qui fait briller la savane de courage.",
+    "mots_cles": ["lion", "courage", "savane", "orage", "arc-en-ciel"],
+    "quiz": [
+      {
+        "question": "Quel animal Léo a-t-il sauvé ?",
+        "options": ["Une tortue", "Un zèbre", "Un singe"],
+        "answer": "Une tortue"
+      },
+      {
+        "question": "Qu'est-ce qui est apparu après l'orage ?",
+        "options": ["Un arc-en-ciel", "Une tornade", "Une étoile filante"],
+        "answer": "Un arc-en-ciel"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titre": "La fusée magique",
+    "contenu": "Lina, une fillette curieuse, découvrit une fusée argentée cachée sous son lit alors qu'elle cherchait une chaussette perdue. En effleurant un bouton rouge, la fusée s'alluma et murmura : « Prête pour l'aventure ? » Surprise mais ravie, Lina grimpa à bord. En un éclair, l'appareil traversa la fenêtre et grimpa vers les étoiles. Elle atterrit sur une planète de bonbons où les montagnes étaient en guimauve et les rivières en chocolat chaud. Un robot rigolo appelé Tiktak l'accueillit et lui offrit une sucette propulseuse pour explorer les lieux. Après avoir dansé avec des oursons gélifiés et compté les anneaux de Saturne, Lina rentra juste à temps pour le goûter. Personne ne la crut… sauf son chat, qui cligna de l'œil.",
+    "mots_cles": ["espace", "magie", "fusée", "robot", "bonbons"],
+    "quiz": [
+      {
+        "question": "Où Lina a-t-elle trouvé la fusée ?",
+        "options": ["Sous son lit", "Dans son jardin", "Dans la cave"],
+        "answer": "Sous son lit"
+      },
+      {
+        "question": "Quel était le nom du robot ?",
+        "options": ["Tiktak", "Gizmo", "Robo‑Lulu"],
+        "answer": "Tiktak"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titre": "Le lapin et la lune",
+    "contenu": "Chaque soir, Noisette le lapin s'asseyait devant son terrier pour contempler la lune argentée. Il rêvait de lui parler, convaincu qu'elle comprenait ses silences. Un soir de printemps, une étoile filante zébra le ciel. Noisette fit le vœu de visiter la lune. Aussitôt, un rayon lumineux descendit, enveloppa le lapin et l'emporta dans les airs. Là‑haut, il bondit de cratère en cratère, joua à cache‑cache avec les étoiles et remplit sa poche de poussière brillante. Avant de le ramener, la lune lui confia un secret: chaque rire d'enfant illumine un peu plus son visage. Depuis, Noisette brille légèrement la nuit, rappelant à tous que les rêves peuvent toucher le ciel.",
+    "mots_cles": ["lapin", "lune", "rêve", "nuit", "étoile filante"],
+    "quiz": [
+      {
+        "question": "Quel vœu Noisette a-t-il fait ?",
+        "options": ["Visiter la lune", "Trouver une carotte géante", "Voler comme un oiseau"],
+        "answer": "Visiter la lune"
+      },
+      {
+        "question": "Qu'est-ce qui brille autour de Noisette après son voyage ?",
+        "options": ["Un halo de lumière", "Des plumes dorées", "Des bulles d'eau"],
+        "answer": "Un halo de lumière"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titre": "Le dragon de la montagne arc-en-ciel",
+    "contenu": "Au sommet d'une montagne si haute que les nuages semblaient de la barbe à papa, vivait Drak, un jeune dragon dont les écailles changeaient de couleur avec la lumière. Les villageois d'en bas avaient peur de lui, pensant qu'il gardait un trésor. En réalité, Drak collectionnait seulement les fleurs rares qu'il faisait pousser grâce à son souffle tiède. Un jour, la source qui alimentait les jardins du village se tarit. Une fillette nommée Mila décida de grimper la montagne. Elle découvrit Drak en train d'arroser ses fleurs fanées avec des larmes de vapeur. Ensemble, ils dégagèrent un rocher bloquant la source, et l'eau se remit à couler en cascades irisées. Les villageois offrirent alors à Drak une couronne de pétales, et la montagne fut renommée Mont Arc‑en‑Ciel.",
+    "mots_cles": ["dragon", "montagne", "arc-en-ciel", "fleurs", "amitié"],
+    "quiz": [
+      {
+        "question": "Pourquoi les villageois avaient-ils peur de Drak ?",
+        "options": ["Ils pensaient qu'il gardait un trésor", "Il soufflait du feu partout", "Il volait les moutons"],
+        "answer": "Ils pensaient qu'il gardait un trésor"
+      },
+      {
+        "question": "Quelle a été la solution pour ramener l'eau au village ?",
+        "options": ["Dégager un rocher", "Conjurer une pluie magique", "Creuser un puits"],
+        "answer": "Dégager un rocher"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titre": "Le trésor du pirate souriant",
+    "contenu": "Barbe‑Rire était un pirate très particulier : au lieu de dire « Argh », il éclatait de rire à chaque vague. Son navire, le Joyeux Requin, naviguait de port en port pour raconter des histoires drôles plutôt que pour attaquer. Un matin, Barbe‑Rire trouva une bouteille flottant près du gouvernail. À l'intérieur se trouvait une carte indiquant l'île de la Grosse Guitare, sur laquelle résonnait, disait‑on, une mélodie capable de révéler les trésors cachés. Avec son équipage de perroquets chanteurs, il mit les voiles. À l'île, ils suivirent les notes jusqu'à une caverne où un coffre scellé s'ouvrit grâce à un fou‑rire collectif. À l'intérieur, des fioles contenant des éclats de rire éternels. Barbe‑Rire partagea le butin avec le monde entier.",
+    "mots_cles": ["pirate", "trésor", "musique", "rire", "île"],
+    "quiz": [
+      {
+        "question": "Quel était le nom du navire de Barbe‑Rire ?",
+        "options": ["Le Joyeux Requin", "L'Étoile des Mers", "La Vague farceuse"],
+        "answer": "Le Joyeux Requin"
+      },
+      {
+        "question": "Qu'y avait-il dans le coffre ?",
+        "options": ["Des fioles de rire", "Des pièces d'or", "Des perles noires"],
+        "answer": "Des fioles de rire"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "titre": "La forêt qui chantait",
+    "contenu": "Dans le pays de Mélodia se tenait une forêt où chaque arbre possédait une voix. Au lever du soleil, les troncs vibraient comme des violoncelles tandis que les feuilles cliquetaient comme des cymbales. Zoé, apprentie compositrice, rêvait d'écrire la partition de ce concert naturel. Elle s'aventura entre les racines et découvrit qu'un chêne centenaire, malade, chantait faux. Cette dissonance assourdissait le reste de la forêt. Zoé prépara une potion à base de miel, de rosée et de poudre d'étoile et soigna le chêne. Dès qu'il retrouva sa voix, un bâton‑chef d'orchestre magique poussa à ses pieds, symbole de la gratitude de la forêt.",
+    "mots_cles": ["forêt", "musique", "chêne", "magie", "nature"],
+    "quiz": [
+      {
+        "question": "Pourquoi la forêt chantait-elle faux ?",
+        "options": ["Un chêne était malade", "Les oiseaux étaient partis", "Il manquait de pluie"],
+        "answer": "Un chêne était malade"
+      },
+      {
+        "question": "Qu'est-ce que les arbres ont offert à Zoé ?",
+        "options": ["Un bâton‑chef d'orchestre", "Un collier de feuilles", "Un tambour magique"],
+        "answer": "Un bâton‑chef d'orchestre"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "titre": "Le robot qui voulait jardiner",
+    "contenu": "R‑B12 était un robot conçu pour calculer la trajectoire des satellites. Mais son rêve secret était de planter des fleurs. Un jour, après un orage qui détruisit le potager de la ville, R‑B12 proposa son aide. Les humains hésitèrent : un robot jardinier, quelle idée ! Pourtant, grâce à ses capteurs, il calcula l'angle idéal du soleil et l'humidité parfaite du sol. Il construisit des arrosoirs automatiques à partir de vieilles boîtes de conserve et sema des graines partout où le béton avait fendu. Quand les premières pousses apparurent, son bouton cœur s'illumina et une fleur holographique jaillit pour célébrer la renaissance du vert.",
+    "mots_cles": ["robot", "jardin", "ville", "fleurs", "innovation"],
+    "quiz": [
+      {
+        "question": "Quel était le rêve de R‑B12 ?",
+        "options": ["Planter des fleurs", "Devenir chef cuisinier", "Construire un avion"],
+        "answer": "Planter des fleurs"
+      },
+      {
+        "question": "Que se passe-t-il quand on appuie sur le bouton cœur ?",
+        "options": ["Une fleur holographique apparaît", "Il joue de la musique", "Il raconte une blague"],
+        "answer": "Une fleur holographique apparaît"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "titre": "La sirène et la perle du temps",
+    "contenu": "Dans l'océan de Saphir vivait Nérée, une jeune sirène fascinée par les histoires de surface. Au fond d'une grotte lumineuse reposait la Perle du Temps, capable, disait‑on, de montrer le passé et le futur. Lorsqu'un courant violent menaça les coraux voisins, Nérée consulta la perle : elle aperçut un navire en détresse qui, s'il s'écrasait, détruirait le récif. Sans attendre, elle nagea jusqu'au bateau et chanta la mélodie des vagues pour guider les marins hors des hauts‑fonds. Le navire fut sauvé, et les marins promirent de protéger les fonds marins en échange. La perle scintilla de joie et offrit à Nérée une écaille d'azur pouvant arrêter le temps quelques secondes.",
+    "mots_cles": ["sirène", "perle", "temps", "océan", "avenir"],
+    "quiz": [
+      {
+        "question": "Que montrait la Perle du Temps à Nérée ?",
+        "options": ["Le passé et le futur", "Un trésor enfoui", "Un monstre marin"],
+        "answer": "Le passé et le futur"
+      },
+      {
+        "question": "Comment Nérée a-t-elle sauvé le navire ?",
+        "options": ["En chantant pour le guider", "En déplaçant les rochers", "En appelant des dauphins"],
+        "answer": "En chantant pour le guider"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "titre": "Le chevalier et la fleur géante",
+    "contenu": "Au royaume de Floréal, une fleur haute comme un château apparut soudain en plein milieu de la grande plaine. On disait qu'un géant l'avait plantée pour cacher un secret. Le jeune chevalier Arthus, plus curieux que guerrier, décida d'escalader la tige lisse. Avec l'aide d'une coccinelle géante qui lui prêta ses ailes tachetées, il atteignit le cœur de la fleur. Là, il découvrit un lac miniature reflétant les souvenirs heureux des habitants du royaume. Arthus comprit que la fleur poussait grâce à la joie collectée. Il redescendit et organisa une fête pour emplir le lac de rires. En remerciement, la fleur offrit une graine dorée qui fit éclore des sourires partout où elle fut plantée.",
+    "mots_cles": ["chevalier", "fleur", "géant", "joie", "légende"],
+    "quiz": [
+      {
+        "question": "Qui a aidé Arthus à voler ?",
+        "options": ["Une coccinelle géante", "Un dragon miniature", "Un faucon royal"],
+        "answer": "Une coccinelle géante"
+      },
+      {
+        "question": "De quoi la fleur géante se nourrit-elle ?",
+        "options": ["De la joie des habitants", "De la pluie d'argent", "Du chant des rossignols"],
+        "answer": "De la joie des habitants"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "titre": "L'ours et la cascade lumineuse",
+    "contenu": "Dans les montagnes du Nord coulait une cascade qui brillait la nuit comme si mille lucioles y dansaient. Boréa, un jeune ours brun, rêvait de découvrir l'origine de cette lumière. Un soir d'été, il suivit la rivière et arriva au pied de la chute. Dans la caverne derrière l'eau scintillante, il trouva un vieux cristal lunaire fissuré. Chaque goutte d'eau qui le touchait libérait un rayon d'argent. Voyant qu'une partie du cristal risquait de se briser, Boréa alla chercher l'herbe‑glace qui pousse au sommet venté. En appliquant la sève glacée, il scella la fissure. La cascade éclaira alors tout le versant, et les animaux offrirent à Boréa un pendentif d'éclat lunaire pour guider ses futures explorations.",
+    "mots_cles": ["ours", "cascade", "cristal", "lumière", "montagne"],
+    "quiz": [
+      {
+        "question": "Qu'est-ce qui rendait la cascade lumineuse ?",
+        "options": ["Un cristal lunaire", "Des lampes cachées", "Un volcan brillant"],
+        "answer": "Un cristal lunaire"
+      },
+      {
+        "question": "Comment Boréa a-t-il réparé le cristal ?",
+        "options": ["Avec de l'herbe‑glace", "Avec du miel", "Avec une corde de vigne"],
+        "answer": "Avec de l'herbe‑glace"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "titre": "La princesse astronome",
+    "contenu": "Sélène, princesse du royaume de Clairciel, préférait sa lunette astronomique aux bals du palais. Elle passait ses nuits à cartographier les constellations. Un soir, elle observa une étoile clignotante qui dessinait des signes étranges. Après avoir déchiffré le code, elle comprit qu'il s'agissait d'une demande d'aide d'une civilisation lointaine dont la planète se refroidissait. Sélène construisit alors, avec l'ingénieur royal et un groupe d'enfants inventeurs, un miroir géant capable de refléter la lumière du soleil jusque vers cette planète. La réussite fut célébrée par une pluie d'étoiles filantes, et Sélène reçut un caillou cosmique qui luisait comme un petit soleil.",
+    "mots_cles": ["princesse", "espace", "étoile", "science", "solidarité"],
+    "quiz": [
+      {
+        "question": "Quel instrument Sélène utilisait-elle ?",
+        "options": ["Une lunette astronomique", "Un télescope sous‑marin", "Une boussole fonctionnelle"],
+        "answer": "Une lunette astronomique"
+      },
+      {
+        "question": "Quel était le but du miroir géant ?",
+        "options": ["Réchauffer une planète lointaine", "Éclairer les jardins", "Dévier les météores"],
+        "answer": "Réchauffer une planète lointaine"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "titre": "Le chat écrivaillon",
+    "contenu": "Plume est un chat noir aux moustaches blanches, mais surtout un écrivain nocturne. Quand sa famille dort, il saute sur la machine à écrire et raconte la journée du quartier vu à hauteur de pavé. Un soir, il apprit qu'un parc allait être remplacé par un parking. Son article, intitulé « L'arbre où nichent les souvenirs », fut glissé sous chaque porte. Le lendemain, les enfants du quartier firent la chaîne autour du vieux chêne central, tandis que les parents signaient une pétition. La mairie recula et Plume reçut un collier‑stylo capable d'enregistrer ses prochaines chroniques d'un simple frémissement de moustache.",
+    "mots_cles": ["chat", "écriture", "journalisme", "parc", "communauté"],
+    "quiz": [
+      {
+        "question": "Quel était le titre de l'article de Plume ?",
+        "options": ["L'arbre où nichent les souvenirs", "Le parking merveilleux", "La nuit des chats"],
+        "answer": "L'arbre où nichent les souvenirs"
+      },
+      {
+        "question": "Quel objet magique reçoit Plume ?",
+        "options": ["Un collier‑stylo", "Une cape d'invisibilité", "Un coussin volant"],
+        "answer": "Un collier‑stylo"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "titre": "Le voyageur des volcans de glace",
+    "contenu": "Ilan aimait les endroits extrêmes. Son rêve : voir les volcans de glace de l'île de Glacéria, qui émettent des gerbes d'eau gelée illuminées par des cristaux. Avec son kayak cerf‑volant, il traversa le fjord gelé et installa son camp près du plus grand volcan. Il découvrit que l'activité des geysers formait des ponts de glace nécessaires aux renards polaires pour rejoindre leurs tanières. Mais un bloc de glace glissa et bloqua le principal conduit. Ilan utilisa son kayak comme levier et libéra le passage. Les renards lui offrirent alors une écharpe de lumière dessinée par les aurores boréales.",
+    "mots_cles": ["aventure", "volcan", "glace", "renard", "aurore"],
+    "quiz": [
+      {
+        "question": "Quel animal aide Ilan indirectement ?",
+        "options": ["Les renards polaires", "Les phoques", "Les manchots"],
+        "answer": "Les renards polaires"
+      },
+      {
+        "question": "Qu'offre-t-on à Ilan ?",
+        "options": ["Une écharpe de lumière", "Des skis magiques", "Une boussole dorée"],
+        "answer": "Une écharpe de lumière"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "titre": "L'école des dinosaures",
+    "contenu": "Au cœur d'une jungle tropicale cachée dans le temps, se trouve l'École des Dinosaures, où les jeunes tricératops apprennent la danse, et les vélociraptors la peinture. Léa, une enfant passionnée de paléontologie, découvrit le portail temporel par hasard. Les dinosaures furent d'abord surpris par son sac à dos fluo, puis l'accueillirent. Lorsque le volcan voisin se réveilla, Léa proposa un plan d'évacuation enseigné lors de ses exercices de sécurité : ligne par deux, calme et couverture de tête. Grâce à elle, aucun dinosaure ne fut blessé et la classe la nomma professeure honoraire.",
+    "mots_cles": ["dinosaure", "école", "volcan", "voyage dans le temps", "courage"],
+    "quiz": [
+      {
+        "question": "Qu'apprennent les tricératops ?",
+        "options": ["La danse", "Le football", "La magie"],
+        "answer": "La danse"
+      },
+      {
+        "question": "Comment Léa a-t-elle aidé lors de l'éruption ?",
+        "options": ["En organisant l'évacuation", "En congelant la lave", "En volant sur un ptéranodon"],
+        "answer": "En organisant l'évacuation"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "titre": "Le fantôme du vieux moulin",
+    "contenu": "Dans un village au bord d'un lac, un vieux moulin grinçait chaque nuit. Les habitants parlaient d'un fantôme brasseur. Hugo, muni de sa lampe à lucioles, décida d'enquêter. À minuit, il entra et découvrit un spectre translucide nommé Grisou qui essayait de réparer les pales pour moudre du blé imaginaire : c'était la seule chose qui lui rappelait sa vie passée. Hugo proposa de construire un moulin miniature actionné par la brise du lac. Avec l'aide des enfants, il fabriqua l'objet et le plaça sur le rebord de la fenêtre du fantôme. Heureux, Grisou cessa de gémir, et le moulin devint un lieu de contes nocturnes.",
+    "mots_cles": ["fantôme", "moulin", "amitié", "bricolage", "village"],
+    "quiz": [
+      {
+        "question": "Quel est le nom du fantôme ?",
+        "options": ["Grisou", "Phantomix", "Sirocco"],
+        "answer": "Grisou"
+      },
+      {
+        "question": "Que construit Hugo ?",
+        "options": ["Un moulin miniature", "Une cage à papillons", "Un radeau"],
+        "answer": "Un moulin miniature"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "titre": "Les chaussures pour parler aux animaux",
+    "contenu": "Lou, inventrice en herbe, créa des chaussures à semelles scintillantes censées traduire les bruits en mots. Lors de leur premier essai dans la ferme de son grand‑père, elle entendit la vache Murielle demander plus de musique, et le coq Rémi réclamer une cravate rouge pour parader. Lou organisa alors un bal champêtre : elle installa une radio, accrocha des rubans et la ferme résonna de rires. Les chaussures étaient un succès, mais capricieuses : elles ne fonctionnaient que lorsque le porteur dansait. Lou décida donc d'apprendre aux animaux quelques pas, et bientôt la prairie fut la plus joyeuse piste de danse du pays.",
+    "mots_cles": ["invention", "animaux", "ferme", "danse", "communication"],
+    "quiz": [
+      {
+        "question": "Que demandait la vache Murielle ?",
+        "options": ["Plus de musique", "Plus de foin", "Une couverture"],
+        "answer": "Plus de musique"
+      },
+      {
+        "question": "À quelle condition les chaussures fonctionnent-elles ?",
+        "options": ["Quand le porteur danse", "Quand il pleut", "Au lever du soleil"],
+        "answer": "Quand le porteur danse"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "titre": "Le petit nuage explorateur",
+    "contenu": "Nubo était un nuage aussi curieux qu'un chaton. Il rêvait de voir ce qu'il y avait derrière l'horizon. Un matin, porté par les vents d'ouest, il laissa son troupeau d'altocumulus et flotta près de la terre. Il découvrit la chaleur d'un désert, la fraîcheur d'une vallée et la senteur caramélisée d'une pâtisserie de village. Fasciné, il absorba un peu de vapeur de chaque endroit et changea de couleur : beige du sable, vert de la vallée, rose du sucre filé. En fin d'après‑midi, il retrouva ses amis nuages et libéra une pluie multicolore qui fit pousser des fleurs arc‑en‑ciel.",
+    "mots_cles": ["nuage", "voyage", "pluie", "couleur", "monde"],
+    "quiz": [
+      {
+        "question": "Quelle odeur Nubo découvre-t-il au village ?",
+        "options": ["Le sucre filé", "Le parfum des roses", "La soupe d'oignons"],
+        "answer": "Le sucre filé"
+      },
+      {
+        "question": "De quelle couleur était la pluie ?",
+        "options": ["Multicolore", "Bleue uniquement", "Incolore"],
+        "answer": "Multicolore"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "titre": "Le train qui volait",
+    "contenu": "La ligne 9‑¾ relie, en secret, la gare centrale d'Oraville aux nuages. Le conducteur, Monsieur Sifflet, possède une clé‑tambour qui, à minuit, fait pousser des ailes au vieux train. Clara, une passagère qui rentrait tard d'un concert, monta par hasard dans le wagon. Quand le train décolla, elle fut d'abord effrayée, mais la vue des villes endormies la rassura. À mi‑parcours, un nuage‑orage têtu voulut les empêcher de passer. Clara sortit son violon et joua un air si doux que le nuage s'écarta, dévoilant la lune. Le train se posa enfin sur une gare céleste où l'on offrait des croissants d'étoiles.",
+    "mots_cles": ["train", "vol", "musique", "ciel", "aventure"],
+    "quiz": [
+      {
+        "question": "Comment le train obtient-il des ailes ?",
+        "options": ["Grâce à la clé‑tambour", "Avec un sort de fée", "Par la vapeur magique"],
+        "answer": "Grâce à la clé‑tambour"
+      },
+      {
+        "question": "Comment Clara apaise le nuage‑orage ?",
+        "options": ["Avec son violon", "En chantant fort", "En lançant du sable d'étoiles"],
+        "answer": "Avec son violon"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "titre": "Le sorcier des saisons",
+    "contenu": "Au bord de la Forêt‑Rève vivait Arkel, sorcier chargé de peindre les saisons sur les arbres. Chaque trimestre, il changeait sa palette : vert tendre, or, argent givré, puis fleurs pastel. Mais un matin, ses pinceaux se figèrent : la Montre du Temps, qu'il utilisait pour régler le cycle, avait disparu. Mila, apprentie herboriste, suivit les traces de feuilles fanées et trouva un corbeau qui avait pris la montre pour un miroir. Elle proposa un échange : une plume d'arc‑nuit contre l'objet. La montre rendue, Arkel termina de peindre l'automne, et offrit à Mila une graine qui fait pousser un arbre changeant de couleur chaque semaine.",
+    "mots_cles": ["sorcier", "saison", "magie", "forêt", "temps"],
+    "quiz": [
+      {
+        "question": "Qui avait volé la Montre du Temps ?",
+        "options": ["Un corbeau", "Un renard", "Un géant"],
+        "answer": "Un corbeau"
+      },
+      {
+        "question": "Que donne la graine offerte à Mila ?",
+        "options": ["Un arbre changeant de couleur", "Une potion de jeunesse", "Un arc‑en‑ciel portable"],
+        "answer": "Un arbre changeant de couleur"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "titre": "La maison dans la bouteille",
+    "contenu": "Au marché des marins, Éloi acheta une vieille bouteille au verre turquoise. À l'intérieur, une minuscule maison éclairée vacillait. Chaque soir, la maison grandissait, et la bouteille aussi, sans jamais se briser. Un jour, Éloi entra par le goulot agrandi et rencontra une famille de lucioles qui bâtissait un village lumineux. Elles expliquèrent que leur monde avait besoin d'un gardien pour veiller à la propreté des rivières, car c'est l'eau claire qui rend leur lumière pure. Éloi accepta, et lorsque sa mission fut accomplie, la bouteille reprit sa taille initiale, devenant un pendentif qu'il porta comme promesse de protéger la nature.",
+    "mots_cles": ["maison", "bouteille", "lucioles", "rivière", "écologie"],
+    "quiz": [
+      {
+        "question": "Quel est le secret pour garder la lumière des lucioles ?",
+        "options": ["Des rivières propres", "Des diamants", "Des rayons de lune"],
+        "answer": "Des rivières propres"
+      },
+      {
+        "question": "Que devient la bouteille à la fin ?",
+        "options": ["Un pendentif", "Un phare géant", "Un aquarium"],
+        "answer": "Un pendentif"
+      }
+    ]
+  }
+]
