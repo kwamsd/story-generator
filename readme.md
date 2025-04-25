@@ -62,7 +62,6 @@ com.example.storygenerator
 ├─ AccueilActivity.java      // page d’accueil
 ├─ HistoireActivity.java     // lecture + quiz
 ├─ MotsClesAdapter.java      // recyclerview adapter
-└─ ui.theme (Kotlin)         // Color.kt, Theme.kt, Type.kt
 
 ```
 
@@ -71,7 +70,7 @@ com.example.storygenerator
 ```
 res/layout/activity_accueil.xml     // UI de l’accueil
 res/layout/activity_histoire.xml    // UI de l’histoire
-assets/histoires.json               // banque d’histoires & quiz
+assets/histoires.json               // JSON d'histoires & quiz
 res/drawable/bg_gradient.xml        // fond dégradé
 
 ```
@@ -89,13 +88,12 @@ StoryGenerator/
  ├─ app/
  │  ├─ src/
  │  │  ├─ main/
- │  │  │  ├─ java/com/example/storygenerator/  (code Java)
- │  │  │  ├─ kotlin/... (thème)
- │  │  │  ├─ res/ (layouts, drawables, values…)
+ │  │  │  ├─ java/com/example/storygenerator
+ │  │  │  ├─ res/ 
  │  │  │  └─ assets/histoires.json
  │  ├─ build.gradle
  ├─ gradle/
- ├─ build.gradle (project‑level)
+ ├─ build.gradle 
  └─ settings.gradle
 
 ```
@@ -130,17 +128,7 @@ StoryGenerator/
 
 ---
 
-## 9. Pistes d’amélioration (optionnelles)
-
-- Ajouter un **Text‑to‑Speech** pour lire l’histoire à l’enfant.
-- Génération algorithmique : intégrer GPT‑4o via une API web.
-- Système de **score cumulé** et badges.
-- Mode sombre / Accessibilité (police Dyslexie‑friendly).
-- Sauvegarde des histoires dans une base locale (*Room*).
-
----
-
-## 10. Auteurs
+## 9. Auteurs
 
 ### **Kwameh DHEGBO**
 - Création du fichier **JSON** contenant les données des histoires.
