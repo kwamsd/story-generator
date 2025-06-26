@@ -1,12 +1,9 @@
 *Projet de développement d’application Android (Java & Kotlin)*
 
-UE : **Développement d’applications Android** — Semestre 4
-
 ---
 
-## 1. Pitch rapide
+## 1. Description
 
-📂 **Répertoire GitHub** : https://github.com/kwamsd/story-generator
 
 Story Generator est une application Android destinée aux enfants : en sélectionnant quelques mots‑clés, l’enfant obtient automatiquement une histoire illustrée par un mini‑quiz pour valider sa compréhension. 
 
@@ -130,13 +127,13 @@ StoryGenerator/
 
 ## 9. Auteurs
 
-### **Kwameh DHEGBO**
+### [Kwameh DHEGBO](https://www.linkedin.com/in/kwameh-dhegbo-9b779420a/)
 - Création du fichier **JSON** contenant les données des histoires.
 - Développement des **classes Java** pour la **page d’accueil**.
 
-### **Bilal DEMBÉLÉ**
+### [Bilal DEMBÉLÉ](https://www.linkedin.com/in/bilal-dembel%C3%A9-b63144295/)
 - Développement des autres **classes Java** nécessaires au fonctionnement de l'application.
 - Implémentation de la logique Java liée à l’interface d’accueil.
 
-### **Ilian ARICHI** & **Clément DE ABREU**
+### [Ilian ARICHI](https://www.linkedin.com/in/ilian-arichi-584688230/) & [Clément DE ABREU](https://www.linkedin.com/in/cl%C3%A9ment-de-abreu/)
 - Réalisation des interfaces graphiques dans le dossier `res/`.
